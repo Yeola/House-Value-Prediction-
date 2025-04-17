@@ -68,6 +68,16 @@ Housing Data: The primary dataset used for this analysis is the "housing.csv", c
    ### Modeling
 
    Multiple machine learning models were trained and compared:
+   
+   - LightGBM emerged as the best model withe the highest R2 and lowest RMSE
+     
+   |Model|R2 Score|MAE|RMSE|
+   |-----|--------|---|----|
+   |Linear Regression|0.55|53,234|76,613|
+   |Random Forest|0.81|31,969|49,628|
+   |XGBoost|0.80|32,676|50,675|
+   |LightGBM|0.82|32,723|48,505|
+   |Neural network|0.56|47,313||
 
 
    ### Recommendations
