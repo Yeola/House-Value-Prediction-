@@ -41,9 +41,15 @@ Housing Data: The primary dataset used for this analysis is the "housing.csv", c
   
   EDA involved exploring the housing data to answer questions, such as:
 
+![powerbi image](https://github.com/user-attachments/assets/76808c9b-eaf1-41b3-87c2-2cecde47391a)
   - what factors most influence housing prices?
   - Does proximity to the ocean affect house prices?
   - Is the number of rooms per household a strong predictor of house prices?
+
+
+
+
+    
 
   ### Data Analysis
 
