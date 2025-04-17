@@ -40,18 +40,13 @@ Housing Data: The primary dataset used for this analysis is the "housing.csv", c
   ### Exploratory Data Analysis
   
   EDA involved exploring the housing data to answer questions, such as:
-
-![powerbi image](https://github.com/user-attachments/assets/76808c9b-eaf1-41b3-87c2-2cecde47391a)
   - what factors most influence housing prices?
   - Does proximity to the ocean affect house prices?
   - Is the number of rooms per household a strong predictor of house prices?
+![powerbi image](https://github.com/user-attachments/assets/fc9196ea-9609-4eb5-b5e2-e021bef0191a)
 
 
-
-
-    
-
-  ### Data Analysis
+ ### Data Analysis
 
     ```python
      1️⃣ Rooms per Household
